@@ -1,6 +1,6 @@
 #!/bin/sh
 # Define your function here
-repolink="https://github.com/desuma09/playground.git"
+repolink="repos.txt"
 checkrepo() {
             if [ -f "$repolink" ]
             then
